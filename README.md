@@ -8,4 +8,5 @@
 - [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 - [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://www.microsoft.com/en-us/edge/?form=MA13FJ)
 
-## **Demo:** [https://ksupyl.github.io/Weather_app/](https://ksupyl.github.io/Weather_app/) ![Demonstration](images/Demostration.png)
+## **Demo:** [https://ksupyl.github.io/Weather_app/](https://ksupyl.github.io/Weather_app/) 
+![Demonstration](./images/Demostration.png)
